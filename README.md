@@ -11,7 +11,7 @@ A real-time embedded monitoring and data acquisition system developed using **ST
 * **Wi-Fi Module:** ESP8266
 * **Display:** 16x2 LCD
 * **Protocols:** UART
-* **Peripherals:** GPIO, ADC, UART, RTC, Systick timer
+* **Peripherals:** GPIO, ADC, UART, RTC, SYSTICK TIMER
 * **Programming Approaches:**
 
   * Register-Level Programming
