@@ -1,0 +1,14 @@
+# Keil generated files
+*.uvoptx
+*.uvguix.*
+
+# Build/output folders
+Debug/
+Listings/
+Objects/
+RTE/
+DebugConfig/
+
+# STM32CubeIDE generated build folder
+build/
+
