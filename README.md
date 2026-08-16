@@ -19,7 +19,7 @@ A real-time embedded monitoring and data acquisition system developed using **ST
 
 ## Project Structure
 
-```text
+text
 Real-Time-Embedded-Monitoring-Data-Acquisition-System/
 │
 ├── HAL/
@@ -37,7 +37,6 @@ Real-Time-Embedded-Monitoring-Data-Acquisition-System/
 │   └── ...
 │
 └── README.md
-```
 
 ## Features
 
@@ -100,7 +99,7 @@ It demonstrates:
 
 ## System Flow
 
-```text
+text
              ┌──────────────────┐
              │   STM32F401RBT6  │
              │                  │
@@ -123,7 +122,7 @@ It demonstrates:
           │
           ▼
     Local Server
-```
+
 
 ## Key Learning Outcomes
 
@@ -152,7 +151,7 @@ A real-time embedded monitoring and data acquisition system developed using **ST
 
 ## Project Structure
 
-```text
+text
 Real-Time-Embedded-Monitoring-Data-Acquisition-System/
 * LCD interfacing
 * Embedded C firmware development
@@ -162,9 +161,7 @@ Real-Time-Embedded-Monitoring-Data-Acquisition-System/
 * Industrial monitoring systems
 * Real-time data acquisition systems
 
-## Author
 
-**Jayasimha Reddy**
 
 Embedded Systems | STM32 | Embedded C | Register-Level Programming | STM32 HAL
 * Remote sensor monitoring
@@ -190,7 +187,6 @@ Embedded Systems | STM32 | Embedded C | Register-Level Programming | STM32 HAL
 │
           │
     Local Server
-```
 
           ▼
        ESP8266
@@ -209,7 +205,7 @@ Embedded Systems | STM32 | Embedded C | Register-Level Programming | STM32 HAL
 │   └── ...
 │
 └── README.md
-```
+
 
 ## Features
 
@@ -239,7 +235,7 @@ Embedded Systems | STM32 | Embedded C | Register-Level Programming | STM32 HAL
              └────────┬─────────┘
 ## System Flow
 
-```text
+text
              ┌──────────────────┐
 * ESP8266 is interfaced with STM32 through UART.
 * Temperature data is transmitted to a local server.
